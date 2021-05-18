@@ -7,11 +7,11 @@
 
 ## How to run
 
-###Build
+### Build
 
 `./gradlew clean build`
 
-###Code
+### Code
 
 `Chamber chamber = new Chamber("LLLR");`
 
